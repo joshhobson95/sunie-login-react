@@ -1,0 +1,13 @@
+.admin_page{
+    display: flex;
+    justify-content: space-evenly;
+}
+.account_type{
+    color: #1a9e3d;
+    font-size: 11pt;
+}
+.user_card{
+    border: 3px solid pink;
+    width: 15rem;
+    margin: 2rem;
+}

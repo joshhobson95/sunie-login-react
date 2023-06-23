@@ -1,0 +1,11 @@
+.register_form{
+    display: flex;
+    flex-direction: column;
+}
+.register_form input{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    height: 2rem;
+
+}

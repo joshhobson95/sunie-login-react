@@ -1,0 +1,15 @@
+
+
+.login_bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.login_bottom a{
+margin-top: 5rem;
+}
+.request  {
+    color: rgb(24, 209, 132);
+    font-size: 18pt;
+    font-weight: 800;
+}
